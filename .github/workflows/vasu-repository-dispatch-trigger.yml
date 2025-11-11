@@ -1,4 +1,4 @@
-name: vasu - Repository Dispatch Trigger Workflow
+name: Intro - Repository Dispatch Trigger Workflow
 
 on:
   repository_dispatch:
