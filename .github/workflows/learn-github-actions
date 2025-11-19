@@ -1,4 +1,4 @@
-name: Intro - Learn GitHub Actions
+name: Intro - Learn GitHub Actionss
 
 run-name: ${{ github.actor }} is learning GitHub Actions
 
