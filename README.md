@@ -19,7 +19,7 @@
 
 ## Overview
 
-Welcome to the **GitHub Actions Workshop**! This interactive workshop is designed to help you learn, practice, and master GitHub Actions—GitHub's powerful automation platform for building, testing, and deploying code.
+Welcome to the **accenture GitHub Actions Workshop**! This interactive workshop is designed to help you learn, practice, and master GitHub Actions—GitHub's powerful automation platform for building, testing, and deploying code.
 
 Throughout this workshop, you'll gain hands-on experience in:
 
