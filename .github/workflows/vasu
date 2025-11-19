@@ -11,4 +11,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: How's GitHub Actions?
-        run: echo "Awesome!!"
+        run: echo "Awesome!!!"
